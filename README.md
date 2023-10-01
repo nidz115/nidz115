@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nidhi Soni  
 - 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently looking for opportunity in Data Analytics..
-- 📫 You can reach me on https://www.linkedin.com/in/nidhisoni115
+- 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/nidhisoni115)
 
  
 <!---
